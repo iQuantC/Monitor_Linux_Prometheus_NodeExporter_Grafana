@@ -1,4 +1,4 @@
-GitHub Repo: https://github.com/iQuantC/Monitor_Linux_Prometheus_NodeExporter_Grafana
+YouTube: https://youtu.be/Jo1vn5mpn7U?si=y7JN5V0f3iEOC77j
 
 📊 Welcome to our tutorial on monitoring Linux hosts using Prometheus, Node Exporter, and Grafana! 📊
 
@@ -34,5 +34,11 @@ Hit the notification bell to stay updated with our latest videos.
 Drop a comment below, and we'll be happy to assist!#LinuxMonitoring #Prometheus #Grafana #NodeExporter #DevOps #Tutorial
 
 Disclaimer: Video is made for educational purposes
-Follow Us:GitHub: https://github.com/iQuantCInstagram: https://www.instagram.com/iquantconsult/
+
+Follow Us:
+
+YouTube:   https://www.youtube.com/@iQuantConsult
+GitHub:    https://github.com/iQuantC
+Instagram: https://www.instagram.com/iquantconsult/
+
 Happy Monitoring! 🚀
